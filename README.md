@@ -1,4 +1,4 @@
-# ESP32-CAM Rover
+# Piccolo Rover
 
 A Wi-Fi-controlled rover built around an **AI-Thinker ESP32-CAM** and an **Arduino Uno**. The ESP32-CAM hosts a local web dashboard for driving, camera streaming, flashlight control, and sensor monitoring. The Uno controls the motors and performs basic ultrasonic obstacle avoidance in automatic mode.
 
