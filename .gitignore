@@ -1,0 +1,23 @@
+# Local Wi-Fi credentials
+firmware/esp32_cam/config.h
+
+# Arduino IDE / build outputs
+build/
+.build/
+.cache/
+*.elf
+*.hex
+*.bin
+*.map
+*.eep
+*.o
+*.d
+*.a
+*.bak
+*.tmp
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

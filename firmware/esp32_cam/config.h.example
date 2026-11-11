@@ -1,0 +1,6 @@
+#pragma once
+
+// Copy this file to config.h and change these values before uploading.
+// config.h is excluded from Git so your local Wi-Fi credentials stay private.
+#define WIFI_SSID "ESP32-CAM"
+#define WIFI_PASSWORD "change-this-password"
