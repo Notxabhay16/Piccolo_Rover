@@ -37,10 +37,10 @@ A Wi-Fi-controlled rover built around an **AI-Thinker ESP32-CAM** and an **Ardui
 - AI-Thinker ESP32-CAM module
 - Arduino Uno
 - L298N-style dual H-bridge motor driver (the sketch uses ENA, ENB, IN1–IN4)
-- Two DC motors and rover chassis
+- Four DC motors and rover chassis
 - HC-SR04 ultrasonic distance sensor
 - DHT11 temperature/humidity sensor
-- MQ-2 gas sensor module
+- MQ-135 gas sensor module
 - Suitable regulated power supplies and common ground wiring
 
 See [docs/WIRING.md](docs/WIRING.md) before connecting the boards.
